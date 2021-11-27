@@ -1,0 +1,10 @@
+arr= given array
+d=  d % n
+d= 1
+
+
+1  2  3  4  5
+3  4  5  2  1
+5  4   3  2  1
+
+take the element of arrya
